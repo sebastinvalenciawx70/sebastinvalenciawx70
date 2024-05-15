@@ -1,5 +1,5 @@
 ### Hi there 👋
-# 💫 About Me:
+# 💫 Acerca de mi:
 Acerca de mi:<br><br>Perfil de GitHub - Sebastián valencia<br><br>!Hola Soy Sebastián valencia, Soy aprendiz del Técnico en Programación de software <br>ficha 2875029<br><br>Mi objetivo es aprender y compartir mis conocimientos y experiencias para ayudar <br>a otras a aprender y crecer en el mundo de la programación.
 
 
